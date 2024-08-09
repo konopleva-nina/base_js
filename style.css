@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(60, 44, 73);
+  text-align: center;
+}
+
+img {
+  display: block;
+  justify-content: center;
+  width: 1000px;
+}
+
+.panel {
+  background: rgb(90, 80, 99);
+  border-radius: 10px;
+  padding: 40px;
+}
